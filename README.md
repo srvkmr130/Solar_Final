@@ -1,2 +1,5 @@
 # Solar_Final
-The final list of webpages of Solar Labs!!
+## REPO FOR SOLAR LABS INTRENSHIP ASSIGNMENT:
+
+This is the assignment submitted to Solar Labs for the internship program.
+
